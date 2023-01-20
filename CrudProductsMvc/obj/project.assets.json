@@ -10087,11 +10087,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.net-CORE_MVC\\GIT\\CrudProductsMvc-main\\CrudProductsMvc\\CrudProductsMvc\\BlackCoderCrudProductsMvc.csproj",
+      "projectUniqueName": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\CrudProductsMvc-main\\CrudProductsMvc\\CrudProductsMvc\\BlackCoderCrudProductsMvc.csproj",
       "projectName": "BlackCoderCrudProductsMvc",
-      "projectPath": "D:\\ASP.net-CORE_MVC\\GIT\\CrudProductsMvc-main\\CrudProductsMvc\\CrudProductsMvc\\BlackCoderCrudProductsMvc.csproj",
+      "projectPath": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\CrudProductsMvc-main\\CrudProductsMvc\\CrudProductsMvc\\BlackCoderCrudProductsMvc.csproj",
       "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.net-CORE_MVC\\GIT\\CrudProductsMvc-main\\CrudProductsMvc\\CrudProductsMvc\\obj\\",
+      "outputPath": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\CrudProductsMvc-main\\CrudProductsMvc\\CrudProductsMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
